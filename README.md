@@ -101,7 +101,7 @@ This is 100% legal for use in competition. In fact, it falls under essentially t
 
 4. Connect the phone with the Tuner app to the Wi-Fi Direct network broadcast by the RC. **READ:** **you *must* connect through the normal Wi-Fi settings screen, NOT through the Wi-Fi Direct screen!** The password for the Wi-Fi network can be found in the About activity of the RC app.
 
-5. If shorty after connecting Android shows a *"WiFi has no internet"* dialog like this:
+5. If shortly after connecting Android shows a *"WiFi has no internet"* dialog like this:
 
     ![img-her](doc/images/no-internet-dialog.png)
 
